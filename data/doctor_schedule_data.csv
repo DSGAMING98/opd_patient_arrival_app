@@ -1,0 +1,1024 @@
+date,day,department,doctor_name,shift_start,shift_end,max_patients_per_hour
+2026-01-01,Thursday,General Medicine,Dr. Mehta,09:00,16:00,6
+2026-01-01,Thursday,General Medicine,Dr. Rao,08:00,16:00,5
+2026-01-01,Thursday,General Medicine,Dr. Sharma,09:00,15:00,5
+2026-01-01,Thursday,General Medicine,Dr. Patel,09:00,17:00,7
+2026-01-01,Thursday,Pediatrics,Dr. Iyer,09:00,17:00,5
+2026-01-01,Thursday,Pediatrics,Dr. Kapoor,08:00,16:00,5
+2026-01-01,Thursday,Pediatrics,Dr. Fernandes,09:00,16:00,4
+2026-01-01,Thursday,Orthopedics,Dr. Reddy,09:00,16:00,4
+2026-01-01,Thursday,Orthopedics,Dr. Kulkarni,09:00,16:00,4
+2026-01-01,Thursday,Orthopedics,Dr. Singh,08:00,14:00,3
+2026-01-01,Thursday,Cardiology,Dr. Arora,09:00,15:00,4
+2026-01-01,Thursday,Cardiology,Dr. Menon,09:00,15:00,4
+2026-01-01,Thursday,Cardiology,Dr. Khan,08:00,16:00,4
+2026-01-01,Thursday,Dermatology,Dr. Gupta,08:00,16:00,6
+2026-01-01,Thursday,Dermatology,Dr. Bedi,09:00,17:00,7
+2026-01-01,Thursday,ENT,Dr. Varma,08:00,15:00,5
+2026-01-01,Thursday,ENT,Dr. Naidu,08:00,14:00,5
+2026-01-01,Thursday,ENT,Dr. Banerjee,08:00,16:00,6
+2026-01-01,Thursday,Gynecology,Dr. Lakshmi,09:00,16:00,5
+2026-01-01,Thursday,Gynecology,Dr. Seema,08:00,14:00,5
+2026-01-01,Thursday,Gynecology,Dr. Anita,08:00,14:00,4
+2026-01-02,Friday,General Medicine,Dr. Mehta,08:00,15:00,5
+2026-01-02,Friday,General Medicine,Dr. Rao,09:00,16:00,5
+2026-01-02,Friday,General Medicine,Dr. Sharma,08:00,15:00,7
+2026-01-02,Friday,General Medicine,Dr. Patel,09:00,16:00,5
+2026-01-02,Friday,General Medicine,Dr. Nair,09:00,16:00,7
+2026-01-02,Friday,Pediatrics,Dr. Iyer,08:00,16:00,6
+2026-01-02,Friday,Pediatrics,Dr. Kapoor,08:00,16:00,6
+2026-01-02,Friday,Orthopedics,Dr. Reddy,09:00,15:00,3
+2026-01-02,Friday,Orthopedics,Dr. Kulkarni,09:00,16:00,3
+2026-01-02,Friday,Cardiology,Dr. Arora,08:00,16:00,3
+2026-01-02,Friday,Cardiology,Dr. Menon,09:00,17:00,4
+2026-01-02,Friday,Cardiology,Dr. Khan,09:00,16:00,4
+2026-01-02,Friday,Dermatology,Dr. Gupta,09:00,16:00,6
+2026-01-02,Friday,Dermatology,Dr. Bedi,09:00,16:00,5
+2026-01-02,Friday,ENT,Dr. Varma,08:00,14:00,5
+2026-01-02,Friday,ENT,Dr. Naidu,09:00,16:00,5
+2026-01-02,Friday,Gynecology,Dr. Lakshmi,09:00,15:00,5
+2026-01-02,Friday,Gynecology,Dr. Seema,09:00,16:00,4
+2026-01-02,Friday,Gynecology,Dr. Anita,09:00,15:00,4
+2026-01-03,Saturday,General Medicine,Dr. Mehta,08:00,15:00,5
+2026-01-03,Saturday,General Medicine,Dr. Rao,08:00,15:00,7
+2026-01-03,Saturday,General Medicine,Dr. Sharma,08:00,14:00,6
+2026-01-03,Saturday,Pediatrics,Dr. Iyer,09:00,15:00,4
+2026-01-03,Saturday,Pediatrics,Dr. Kapoor,09:00,15:00,6
+2026-01-03,Saturday,Orthopedics,Dr. Reddy,09:00,15:00,4
+2026-01-03,Saturday,Cardiology,Dr. Arora,08:00,15:00,4
+2026-01-03,Saturday,Cardiology,Dr. Menon,09:00,17:00,4
+2026-01-03,Saturday,Dermatology,Dr. Gupta,08:00,15:00,7
+2026-01-03,Saturday,ENT,Dr. Varma,08:00,15:00,4
+2026-01-03,Saturday,Gynecology,Dr. Lakshmi,08:00,16:00,5
+2026-01-04,Sunday,General Medicine,Dr. Mehta,08:00,16:00,5
+2026-01-04,Sunday,General Medicine,Dr. Rao,09:00,16:00,7
+2026-01-04,Sunday,General Medicine,Dr. Sharma,08:00,15:00,7
+2026-01-04,Sunday,Pediatrics,Dr. Iyer,08:00,14:00,5
+2026-01-04,Sunday,Orthopedics,Dr. Reddy,08:00,16:00,4
+2026-01-04,Sunday,Cardiology,Dr. Arora,08:00,16:00,3
+2026-01-04,Sunday,Cardiology,Dr. Menon,08:00,14:00,3
+2026-01-04,Sunday,Dermatology,Dr. Gupta,08:00,16:00,6
+2026-01-04,Sunday,Dermatology,Dr. Bedi,09:00,16:00,5
+2026-01-04,Sunday,ENT,Dr. Varma,09:00,15:00,6
+2026-01-04,Sunday,ENT,Dr. Naidu,08:00,16:00,6
+2026-01-04,Sunday,Gynecology,Dr. Lakshmi,09:00,15:00,3
+2026-01-05,Monday,General Medicine,Dr. Mehta,08:00,16:00,5
+2026-01-05,Monday,General Medicine,Dr. Rao,08:00,16:00,5
+2026-01-05,Monday,General Medicine,Dr. Sharma,09:00,15:00,7
+2026-01-05,Monday,General Medicine,Dr. Patel,09:00,16:00,5
+2026-01-05,Monday,Pediatrics,Dr. Iyer,09:00,15:00,6
+2026-01-05,Monday,Pediatrics,Dr. Kapoor,08:00,16:00,5
+2026-01-05,Monday,Orthopedics,Dr. Reddy,08:00,15:00,3
+2026-01-05,Monday,Orthopedics,Dr. Kulkarni,09:00,15:00,4
+2026-01-05,Monday,Cardiology,Dr. Arora,08:00,16:00,3
+2026-01-05,Monday,Cardiology,Dr. Menon,09:00,15:00,3
+2026-01-05,Monday,Cardiology,Dr. Khan,08:00,14:00,3
+2026-01-05,Monday,Dermatology,Dr. Gupta,08:00,16:00,5
+2026-01-05,Monday,Dermatology,Dr. Bedi,08:00,15:00,7
+2026-01-05,Monday,Dermatology,Dr. Saha,08:00,14:00,7
+2026-01-05,Monday,ENT,Dr. Varma,09:00,16:00,5
+2026-01-05,Monday,ENT,Dr. Naidu,09:00,16:00,4
+2026-01-05,Monday,ENT,Dr. Banerjee,08:00,14:00,6
+2026-01-05,Monday,Gynecology,Dr. Lakshmi,08:00,15:00,5
+2026-01-05,Monday,Gynecology,Dr. Seema,08:00,14:00,3
+2026-01-06,Tuesday,General Medicine,Dr. Mehta,09:00,16:00,6
+2026-01-06,Tuesday,General Medicine,Dr. Rao,09:00,15:00,6
+2026-01-06,Tuesday,General Medicine,Dr. Sharma,09:00,16:00,7
+2026-01-06,Tuesday,General Medicine,Dr. Patel,08:00,16:00,5
+2026-01-06,Tuesday,Pediatrics,Dr. Iyer,09:00,17:00,5
+2026-01-06,Tuesday,Pediatrics,Dr. Kapoor,08:00,14:00,5
+2026-01-06,Tuesday,Pediatrics,Dr. Fernandes,09:00,15:00,6
+2026-01-06,Tuesday,Orthopedics,Dr. Reddy,08:00,14:00,4
+2026-01-06,Tuesday,Orthopedics,Dr. Kulkarni,08:00,14:00,4
+2026-01-06,Tuesday,Orthopedics,Dr. Singh,09:00,15:00,3
+2026-01-06,Tuesday,Cardiology,Dr. Arora,09:00,17:00,4
+2026-01-06,Tuesday,Cardiology,Dr. Menon,09:00,17:00,3
+2026-01-06,Tuesday,Dermatology,Dr. Gupta,09:00,17:00,7
+2026-01-06,Tuesday,Dermatology,Dr. Bedi,08:00,14:00,5
+2026-01-06,Tuesday,ENT,Dr. Varma,09:00,16:00,5
+2026-01-06,Tuesday,ENT,Dr. Naidu,08:00,16:00,5
+2026-01-06,Tuesday,Gynecology,Dr. Lakshmi,09:00,15:00,3
+2026-01-06,Tuesday,Gynecology,Dr. Seema,09:00,16:00,3
+2026-01-06,Tuesday,Gynecology,Dr. Anita,09:00,16:00,5
+2026-01-07,Wednesday,General Medicine,Dr. Mehta,09:00,17:00,5
+2026-01-07,Wednesday,General Medicine,Dr. Rao,08:00,15:00,5
+2026-01-07,Wednesday,General Medicine,Dr. Sharma,08:00,15:00,7
+2026-01-07,Wednesday,General Medicine,Dr. Patel,09:00,15:00,7
+2026-01-07,Wednesday,Pediatrics,Dr. Iyer,09:00,17:00,6
+2026-01-07,Wednesday,Pediatrics,Dr. Kapoor,08:00,16:00,4
+2026-01-07,Wednesday,Orthopedics,Dr. Reddy,08:00,14:00,3
+2026-01-07,Wednesday,Orthopedics,Dr. Kulkarni,09:00,16:00,4
+2026-01-07,Wednesday,Orthopedics,Dr. Singh,08:00,15:00,5
+2026-01-07,Wednesday,Cardiology,Dr. Arora,09:00,17:00,3
+2026-01-07,Wednesday,Cardiology,Dr. Menon,08:00,14:00,4
+2026-01-07,Wednesday,Dermatology,Dr. Gupta,08:00,14:00,5
+2026-01-07,Wednesday,Dermatology,Dr. Bedi,08:00,16:00,7
+2026-01-07,Wednesday,Dermatology,Dr. Saha,08:00,16:00,5
+2026-01-07,Wednesday,ENT,Dr. Varma,09:00,17:00,6
+2026-01-07,Wednesday,ENT,Dr. Naidu,08:00,14:00,4
+2026-01-07,Wednesday,Gynecology,Dr. Lakshmi,09:00,17:00,3
+2026-01-07,Wednesday,Gynecology,Dr. Seema,09:00,16:00,4
+2026-01-08,Thursday,General Medicine,Dr. Mehta,08:00,16:00,5
+2026-01-08,Thursday,General Medicine,Dr. Rao,08:00,14:00,5
+2026-01-08,Thursday,General Medicine,Dr. Sharma,08:00,14:00,7
+2026-01-08,Thursday,General Medicine,Dr. Patel,09:00,15:00,5
+2026-01-08,Thursday,Pediatrics,Dr. Iyer,09:00,17:00,6
+2026-01-08,Thursday,Pediatrics,Dr. Kapoor,09:00,16:00,4
+2026-01-08,Thursday,Pediatrics,Dr. Fernandes,09:00,17:00,4
+2026-01-08,Thursday,Orthopedics,Dr. Reddy,08:00,16:00,5
+2026-01-08,Thursday,Orthopedics,Dr. Kulkarni,08:00,15:00,3
+2026-01-08,Thursday,Orthopedics,Dr. Singh,09:00,17:00,3
+2026-01-08,Thursday,Cardiology,Dr. Arora,09:00,15:00,3
+2026-01-08,Thursday,Cardiology,Dr. Menon,08:00,15:00,4
+2026-01-08,Thursday,Dermatology,Dr. Gupta,09:00,16:00,5
+2026-01-08,Thursday,Dermatology,Dr. Bedi,09:00,17:00,6
+2026-01-08,Thursday,ENT,Dr. Varma,09:00,16:00,4
+2026-01-08,Thursday,ENT,Dr. Naidu,09:00,17:00,4
+2026-01-08,Thursday,Gynecology,Dr. Lakshmi,08:00,16:00,4
+2026-01-08,Thursday,Gynecology,Dr. Seema,08:00,16:00,3
+2026-01-08,Thursday,Gynecology,Dr. Anita,09:00,15:00,5
+2026-01-09,Friday,General Medicine,Dr. Mehta,09:00,16:00,6
+2026-01-09,Friday,General Medicine,Dr. Rao,09:00,17:00,7
+2026-01-09,Friday,General Medicine,Dr. Sharma,08:00,15:00,5
+2026-01-09,Friday,General Medicine,Dr. Patel,08:00,16:00,5
+2026-01-09,Friday,General Medicine,Dr. Nair,09:00,16:00,5
+2026-01-09,Friday,Pediatrics,Dr. Iyer,09:00,17:00,5
+2026-01-09,Friday,Pediatrics,Dr. Kapoor,09:00,17:00,6
+2026-01-09,Friday,Orthopedics,Dr. Reddy,08:00,15:00,3
+2026-01-09,Friday,Orthopedics,Dr. Kulkarni,08:00,16:00,4
+2026-01-09,Friday,Orthopedics,Dr. Singh,08:00,15:00,5
+2026-01-09,Friday,Cardiology,Dr. Arora,08:00,15:00,4
+2026-01-09,Friday,Cardiology,Dr. Menon,08:00,14:00,3
+2026-01-09,Friday,Cardiology,Dr. Khan,09:00,17:00,4
+2026-01-09,Friday,Dermatology,Dr. Gupta,09:00,15:00,7
+2026-01-09,Friday,Dermatology,Dr. Bedi,08:00,15:00,6
+2026-01-09,Friday,Dermatology,Dr. Saha,08:00,14:00,5
+2026-01-09,Friday,ENT,Dr. Varma,08:00,14:00,6
+2026-01-09,Friday,ENT,Dr. Naidu,08:00,16:00,6
+2026-01-09,Friday,ENT,Dr. Banerjee,09:00,15:00,4
+2026-01-09,Friday,Gynecology,Dr. Lakshmi,09:00,15:00,4
+2026-01-09,Friday,Gynecology,Dr. Seema,08:00,15:00,3
+2026-01-10,Saturday,General Medicine,Dr. Mehta,08:00,14:00,5
+2026-01-10,Saturday,General Medicine,Dr. Rao,09:00,15:00,6
+2026-01-10,Saturday,General Medicine,Dr. Sharma,09:00,16:00,7
+2026-01-10,Saturday,Pediatrics,Dr. Iyer,08:00,16:00,4
+2026-01-10,Saturday,Pediatrics,Dr. Kapoor,09:00,16:00,6
+2026-01-10,Saturday,Orthopedics,Dr. Reddy,09:00,17:00,4
+2026-01-10,Saturday,Orthopedics,Dr. Kulkarni,08:00,15:00,3
+2026-01-10,Saturday,Cardiology,Dr. Arora,08:00,14:00,3
+2026-01-10,Saturday,Cardiology,Dr. Menon,09:00,16:00,4
+2026-01-10,Saturday,Dermatology,Dr. Gupta,08:00,14:00,5
+2026-01-10,Saturday,ENT,Dr. Varma,09:00,16:00,6
+2026-01-10,Saturday,Gynecology,Dr. Lakshmi,08:00,16:00,3
+2026-01-11,Sunday,General Medicine,Dr. Mehta,08:00,16:00,7
+2026-01-11,Sunday,General Medicine,Dr. Rao,08:00,16:00,7
+2026-01-11,Sunday,Pediatrics,Dr. Iyer,09:00,15:00,6
+2026-01-11,Sunday,Pediatrics,Dr. Kapoor,08:00,16:00,5
+2026-01-11,Sunday,Orthopedics,Dr. Reddy,09:00,16:00,4
+2026-01-11,Sunday,Orthopedics,Dr. Kulkarni,09:00,17:00,3
+2026-01-11,Sunday,Cardiology,Dr. Arora,09:00,15:00,4
+2026-01-11,Sunday,Cardiology,Dr. Menon,09:00,17:00,4
+2026-01-11,Sunday,Dermatology,Dr. Gupta,09:00,16:00,7
+2026-01-11,Sunday,ENT,Dr. Varma,08:00,14:00,4
+2026-01-11,Sunday,ENT,Dr. Naidu,08:00,15:00,5
+2026-01-11,Sunday,Gynecology,Dr. Lakshmi,08:00,15:00,3
+2026-01-12,Monday,General Medicine,Dr. Mehta,08:00,15:00,6
+2026-01-12,Monday,General Medicine,Dr. Rao,09:00,15:00,6
+2026-01-12,Monday,General Medicine,Dr. Sharma,08:00,14:00,7
+2026-01-12,Monday,General Medicine,Dr. Patel,08:00,14:00,7
+2026-01-12,Monday,Pediatrics,Dr. Iyer,09:00,17:00,6
+2026-01-12,Monday,Pediatrics,Dr. Kapoor,08:00,16:00,4
+2026-01-12,Monday,Pediatrics,Dr. Fernandes,08:00,15:00,6
+2026-01-12,Monday,Orthopedics,Dr. Reddy,08:00,15:00,3
+2026-01-12,Monday,Orthopedics,Dr. Kulkarni,09:00,16:00,4
+2026-01-12,Monday,Orthopedics,Dr. Singh,09:00,16:00,3
+2026-01-12,Monday,Cardiology,Dr. Arora,08:00,16:00,3
+2026-01-12,Monday,Cardiology,Dr. Menon,08:00,15:00,4
+2026-01-12,Monday,Dermatology,Dr. Gupta,09:00,17:00,5
+2026-01-12,Monday,Dermatology,Dr. Bedi,09:00,16:00,6
+2026-01-12,Monday,Dermatology,Dr. Saha,08:00,15:00,7
+2026-01-12,Monday,ENT,Dr. Varma,08:00,15:00,6
+2026-01-12,Monday,ENT,Dr. Naidu,09:00,15:00,6
+2026-01-12,Monday,ENT,Dr. Banerjee,09:00,15:00,6
+2026-01-12,Monday,Gynecology,Dr. Lakshmi,09:00,16:00,5
+2026-01-12,Monday,Gynecology,Dr. Seema,09:00,17:00,5
+2026-01-13,Tuesday,General Medicine,Dr. Mehta,08:00,14:00,7
+2026-01-13,Tuesday,General Medicine,Dr. Rao,09:00,15:00,5
+2026-01-13,Tuesday,General Medicine,Dr. Sharma,09:00,16:00,5
+2026-01-13,Tuesday,General Medicine,Dr. Patel,08:00,14:00,6
+2026-01-13,Tuesday,General Medicine,Dr. Nair,08:00,15:00,6
+2026-01-13,Tuesday,Pediatrics,Dr. Iyer,09:00,16:00,6
+2026-01-13,Tuesday,Pediatrics,Dr. Kapoor,09:00,17:00,6
+2026-01-13,Tuesday,Orthopedics,Dr. Reddy,08:00,14:00,4
+2026-01-13,Tuesday,Orthopedics,Dr. Kulkarni,08:00,16:00,5
+2026-01-13,Tuesday,Orthopedics,Dr. Singh,08:00,16:00,3
+2026-01-13,Tuesday,Cardiology,Dr. Arora,08:00,15:00,4
+2026-01-13,Tuesday,Cardiology,Dr. Menon,09:00,16:00,4
+2026-01-13,Tuesday,Cardiology,Dr. Khan,09:00,15:00,4
+2026-01-13,Tuesday,Dermatology,Dr. Gupta,08:00,16:00,7
+2026-01-13,Tuesday,Dermatology,Dr. Bedi,09:00,17:00,6
+2026-01-13,Tuesday,Dermatology,Dr. Saha,08:00,16:00,6
+2026-01-13,Tuesday,ENT,Dr. Varma,08:00,14:00,4
+2026-01-13,Tuesday,ENT,Dr. Naidu,09:00,15:00,4
+2026-01-13,Tuesday,ENT,Dr. Banerjee,09:00,16:00,5
+2026-01-13,Tuesday,Gynecology,Dr. Lakshmi,08:00,14:00,5
+2026-01-13,Tuesday,Gynecology,Dr. Seema,08:00,15:00,5
+2026-01-13,Tuesday,Gynecology,Dr. Anita,09:00,16:00,5
+2026-01-14,Wednesday,General Medicine,Dr. Mehta,08:00,14:00,6
+2026-01-14,Wednesday,General Medicine,Dr. Rao,09:00,17:00,5
+2026-01-14,Wednesday,General Medicine,Dr. Sharma,09:00,17:00,7
+2026-01-14,Wednesday,General Medicine,Dr. Patel,08:00,14:00,5
+2026-01-14,Wednesday,General Medicine,Dr. Nair,09:00,17:00,6
+2026-01-14,Wednesday,Pediatrics,Dr. Iyer,08:00,15:00,5
+2026-01-14,Wednesday,Pediatrics,Dr. Kapoor,08:00,16:00,5
+2026-01-14,Wednesday,Orthopedics,Dr. Reddy,08:00,15:00,5
+2026-01-14,Wednesday,Orthopedics,Dr. Kulkarni,09:00,16:00,3
+2026-01-14,Wednesday,Cardiology,Dr. Arora,08:00,14:00,3
+2026-01-14,Wednesday,Cardiology,Dr. Menon,08:00,14:00,4
+2026-01-14,Wednesday,Cardiology,Dr. Khan,09:00,17:00,4
+2026-01-14,Wednesday,Dermatology,Dr. Gupta,08:00,15:00,7
+2026-01-14,Wednesday,Dermatology,Dr. Bedi,08:00,16:00,7
+2026-01-14,Wednesday,Dermatology,Dr. Saha,08:00,16:00,7
+2026-01-14,Wednesday,ENT,Dr. Varma,08:00,15:00,6
+2026-01-14,Wednesday,ENT,Dr. Naidu,08:00,15:00,4
+2026-01-14,Wednesday,Gynecology,Dr. Lakshmi,09:00,15:00,5
+2026-01-14,Wednesday,Gynecology,Dr. Seema,09:00,17:00,3
+2026-01-14,Wednesday,Gynecology,Dr. Anita,08:00,14:00,4
+2026-01-15,Thursday,General Medicine,Dr. Mehta,09:00,17:00,7
+2026-01-15,Thursday,General Medicine,Dr. Rao,08:00,14:00,7
+2026-01-15,Thursday,General Medicine,Dr. Sharma,08:00,15:00,7
+2026-01-15,Thursday,General Medicine,Dr. Patel,08:00,14:00,5
+2026-01-15,Thursday,Pediatrics,Dr. Iyer,08:00,16:00,5
+2026-01-15,Thursday,Pediatrics,Dr. Kapoor,09:00,17:00,6
+2026-01-15,Thursday,Orthopedics,Dr. Reddy,08:00,16:00,3
+2026-01-15,Thursday,Orthopedics,Dr. Kulkarni,08:00,16:00,5
+2026-01-15,Thursday,Cardiology,Dr. Arora,09:00,15:00,4
+2026-01-15,Thursday,Cardiology,Dr. Menon,09:00,17:00,4
+2026-01-15,Thursday,Cardiology,Dr. Khan,09:00,16:00,3
+2026-01-15,Thursday,Dermatology,Dr. Gupta,08:00,14:00,5
+2026-01-15,Thursday,Dermatology,Dr. Bedi,09:00,16:00,6
+2026-01-15,Thursday,ENT,Dr. Varma,09:00,16:00,4
+2026-01-15,Thursday,ENT,Dr. Naidu,09:00,16:00,4
+2026-01-15,Thursday,ENT,Dr. Banerjee,09:00,17:00,4
+2026-01-15,Thursday,Gynecology,Dr. Lakshmi,08:00,14:00,3
+2026-01-15,Thursday,Gynecology,Dr. Seema,09:00,16:00,5
+2026-01-16,Friday,General Medicine,Dr. Mehta,09:00,16:00,5
+2026-01-16,Friday,General Medicine,Dr. Rao,08:00,15:00,5
+2026-01-16,Friday,General Medicine,Dr. Sharma,08:00,14:00,7
+2026-01-16,Friday,General Medicine,Dr. Patel,08:00,16:00,6
+2026-01-16,Friday,General Medicine,Dr. Nair,08:00,15:00,5
+2026-01-16,Friday,Pediatrics,Dr. Iyer,08:00,15:00,6
+2026-01-16,Friday,Pediatrics,Dr. Kapoor,09:00,16:00,5
+2026-01-16,Friday,Pediatrics,Dr. Fernandes,09:00,15:00,5
+2026-01-16,Friday,Orthopedics,Dr. Reddy,09:00,16:00,3
+2026-01-16,Friday,Orthopedics,Dr. Kulkarni,08:00,16:00,4
+2026-01-16,Friday,Orthopedics,Dr. Singh,08:00,15:00,4
+2026-01-16,Friday,Cardiology,Dr. Arora,09:00,15:00,4
+2026-01-16,Friday,Cardiology,Dr. Menon,08:00,16:00,3
+2026-01-16,Friday,Cardiology,Dr. Khan,08:00,15:00,4
+2026-01-16,Friday,Dermatology,Dr. Gupta,08:00,16:00,6
+2026-01-16,Friday,Dermatology,Dr. Bedi,08:00,14:00,7
+2026-01-16,Friday,Dermatology,Dr. Saha,08:00,16:00,5
+2026-01-16,Friday,ENT,Dr. Varma,08:00,15:00,5
+2026-01-16,Friday,ENT,Dr. Naidu,09:00,16:00,5
+2026-01-16,Friday,Gynecology,Dr. Lakshmi,09:00,16:00,3
+2026-01-16,Friday,Gynecology,Dr. Seema,08:00,16:00,3
+2026-01-16,Friday,Gynecology,Dr. Anita,09:00,16:00,4
+2026-01-17,Saturday,General Medicine,Dr. Mehta,09:00,15:00,5
+2026-01-17,Saturday,General Medicine,Dr. Rao,08:00,15:00,6
+2026-01-17,Saturday,Pediatrics,Dr. Iyer,08:00,14:00,5
+2026-01-17,Saturday,Orthopedics,Dr. Reddy,09:00,16:00,5
+2026-01-17,Saturday,Cardiology,Dr. Arora,09:00,16:00,4
+2026-01-17,Saturday,Cardiology,Dr. Menon,09:00,15:00,3
+2026-01-17,Saturday,Dermatology,Dr. Gupta,08:00,15:00,5
+2026-01-17,Saturday,Dermatology,Dr. Bedi,08:00,15:00,6
+2026-01-17,Saturday,ENT,Dr. Varma,08:00,16:00,5
+2026-01-17,Saturday,ENT,Dr. Naidu,09:00,17:00,5
+2026-01-17,Saturday,Gynecology,Dr. Lakshmi,08:00,16:00,5
+2026-01-17,Saturday,Gynecology,Dr. Seema,09:00,17:00,4
+2026-01-18,Sunday,General Medicine,Dr. Mehta,09:00,15:00,5
+2026-01-18,Sunday,General Medicine,Dr. Rao,09:00,17:00,6
+2026-01-18,Sunday,Pediatrics,Dr. Iyer,08:00,14:00,4
+2026-01-18,Sunday,Orthopedics,Dr. Reddy,09:00,17:00,5
+2026-01-18,Sunday,Cardiology,Dr. Arora,08:00,14:00,4
+2026-01-18,Sunday,Dermatology,Dr. Gupta,08:00,14:00,7
+2026-01-18,Sunday,ENT,Dr. Varma,08:00,16:00,6
+2026-01-18,Sunday,Gynecology,Dr. Lakshmi,08:00,16:00,5
+2026-01-19,Monday,General Medicine,Dr. Mehta,08:00,15:00,7
+2026-01-19,Monday,General Medicine,Dr. Rao,08:00,14:00,6
+2026-01-19,Monday,General Medicine,Dr. Sharma,09:00,15:00,6
+2026-01-19,Monday,General Medicine,Dr. Patel,08:00,15:00,7
+2026-01-19,Monday,General Medicine,Dr. Nair,08:00,16:00,6
+2026-01-19,Monday,Pediatrics,Dr. Iyer,08:00,14:00,6
+2026-01-19,Monday,Pediatrics,Dr. Kapoor,09:00,15:00,6
+2026-01-19,Monday,Pediatrics,Dr. Fernandes,09:00,16:00,6
+2026-01-19,Monday,Orthopedics,Dr. Reddy,08:00,14:00,5
+2026-01-19,Monday,Orthopedics,Dr. Kulkarni,08:00,16:00,4
+2026-01-19,Monday,Orthopedics,Dr. Singh,08:00,14:00,5
+2026-01-19,Monday,Cardiology,Dr. Arora,08:00,16:00,4
+2026-01-19,Monday,Cardiology,Dr. Menon,09:00,17:00,4
+2026-01-19,Monday,Dermatology,Dr. Gupta,09:00,17:00,7
+2026-01-19,Monday,Dermatology,Dr. Bedi,09:00,15:00,6
+2026-01-19,Monday,ENT,Dr. Varma,09:00,16:00,4
+2026-01-19,Monday,ENT,Dr. Naidu,08:00,16:00,6
+2026-01-19,Monday,Gynecology,Dr. Lakshmi,08:00,15:00,4
+2026-01-19,Monday,Gynecology,Dr. Seema,09:00,15:00,3
+2026-01-20,Tuesday,General Medicine,Dr. Mehta,08:00,16:00,7
+2026-01-20,Tuesday,General Medicine,Dr. Rao,08:00,15:00,5
+2026-01-20,Tuesday,General Medicine,Dr. Sharma,08:00,14:00,5
+2026-01-20,Tuesday,General Medicine,Dr. Patel,08:00,16:00,6
+2026-01-20,Tuesday,Pediatrics,Dr. Iyer,08:00,14:00,4
+2026-01-20,Tuesday,Pediatrics,Dr. Kapoor,08:00,14:00,6
+2026-01-20,Tuesday,Pediatrics,Dr. Fernandes,09:00,17:00,5
+2026-01-20,Tuesday,Orthopedics,Dr. Reddy,09:00,16:00,5
+2026-01-20,Tuesday,Orthopedics,Dr. Kulkarni,09:00,17:00,4
+2026-01-20,Tuesday,Orthopedics,Dr. Singh,08:00,16:00,4
+2026-01-20,Tuesday,Cardiology,Dr. Arora,09:00,17:00,3
+2026-01-20,Tuesday,Cardiology,Dr. Menon,09:00,17:00,3
+2026-01-20,Tuesday,Cardiology,Dr. Khan,08:00,15:00,4
+2026-01-20,Tuesday,Dermatology,Dr. Gupta,09:00,16:00,6
+2026-01-20,Tuesday,Dermatology,Dr. Bedi,08:00,16:00,5
+2026-01-20,Tuesday,Dermatology,Dr. Saha,09:00,15:00,7
+2026-01-20,Tuesday,ENT,Dr. Varma,08:00,15:00,5
+2026-01-20,Tuesday,ENT,Dr. Naidu,09:00,16:00,5
+2026-01-20,Tuesday,Gynecology,Dr. Lakshmi,08:00,15:00,5
+2026-01-20,Tuesday,Gynecology,Dr. Seema,09:00,16:00,4
+2026-01-21,Wednesday,General Medicine,Dr. Mehta,08:00,14:00,6
+2026-01-21,Wednesday,General Medicine,Dr. Rao,08:00,14:00,5
+2026-01-21,Wednesday,General Medicine,Dr. Sharma,08:00,15:00,7
+2026-01-21,Wednesday,General Medicine,Dr. Patel,09:00,16:00,6
+2026-01-21,Wednesday,Pediatrics,Dr. Iyer,08:00,15:00,5
+2026-01-21,Wednesday,Pediatrics,Dr. Kapoor,08:00,15:00,4
+2026-01-21,Wednesday,Orthopedics,Dr. Reddy,09:00,16:00,4
+2026-01-21,Wednesday,Orthopedics,Dr. Kulkarni,09:00,17:00,5
+2026-01-21,Wednesday,Cardiology,Dr. Arora,09:00,16:00,4
+2026-01-21,Wednesday,Cardiology,Dr. Menon,09:00,16:00,4
+2026-01-21,Wednesday,Cardiology,Dr. Khan,09:00,17:00,3
+2026-01-21,Wednesday,Dermatology,Dr. Gupta,09:00,17:00,6
+2026-01-21,Wednesday,Dermatology,Dr. Bedi,09:00,15:00,5
+2026-01-21,Wednesday,Dermatology,Dr. Saha,09:00,17:00,7
+2026-01-21,Wednesday,ENT,Dr. Varma,09:00,16:00,6
+2026-01-21,Wednesday,ENT,Dr. Naidu,09:00,16:00,6
+2026-01-21,Wednesday,Gynecology,Dr. Lakshmi,09:00,15:00,3
+2026-01-21,Wednesday,Gynecology,Dr. Seema,09:00,17:00,5
+2026-01-22,Thursday,General Medicine,Dr. Mehta,09:00,16:00,5
+2026-01-22,Thursday,General Medicine,Dr. Rao,08:00,14:00,5
+2026-01-22,Thursday,General Medicine,Dr. Sharma,09:00,17:00,7
+2026-01-22,Thursday,General Medicine,Dr. Patel,08:00,16:00,7
+2026-01-22,Thursday,General Medicine,Dr. Nair,09:00,16:00,5
+2026-01-22,Thursday,Pediatrics,Dr. Iyer,08:00,15:00,4
+2026-01-22,Thursday,Pediatrics,Dr. Kapoor,09:00,16:00,4
+2026-01-22,Thursday,Pediatrics,Dr. Fernandes,08:00,15:00,5
+2026-01-22,Thursday,Orthopedics,Dr. Reddy,08:00,16:00,4
+2026-01-22,Thursday,Orthopedics,Dr. Kulkarni,09:00,15:00,3
+2026-01-22,Thursday,Orthopedics,Dr. Singh,08:00,15:00,5
+2026-01-22,Thursday,Cardiology,Dr. Arora,08:00,14:00,4
+2026-01-22,Thursday,Cardiology,Dr. Menon,09:00,17:00,4
+2026-01-22,Thursday,Dermatology,Dr. Gupta,09:00,15:00,7
+2026-01-22,Thursday,Dermatology,Dr. Bedi,09:00,17:00,6
+2026-01-22,Thursday,Dermatology,Dr. Saha,09:00,16:00,5
+2026-01-22,Thursday,ENT,Dr. Varma,08:00,14:00,5
+2026-01-22,Thursday,ENT,Dr. Naidu,08:00,16:00,5
+2026-01-22,Thursday,ENT,Dr. Banerjee,08:00,16:00,5
+2026-01-22,Thursday,Gynecology,Dr. Lakshmi,09:00,16:00,3
+2026-01-22,Thursday,Gynecology,Dr. Seema,09:00,16:00,5
+2026-01-23,Friday,General Medicine,Dr. Mehta,09:00,17:00,5
+2026-01-23,Friday,General Medicine,Dr. Rao,08:00,15:00,7
+2026-01-23,Friday,General Medicine,Dr. Sharma,09:00,16:00,7
+2026-01-23,Friday,General Medicine,Dr. Patel,09:00,17:00,5
+2026-01-23,Friday,General Medicine,Dr. Nair,09:00,16:00,6
+2026-01-23,Friday,Pediatrics,Dr. Iyer,08:00,14:00,5
+2026-01-23,Friday,Pediatrics,Dr. Kapoor,09:00,17:00,4
+2026-01-23,Friday,Orthopedics,Dr. Reddy,08:00,16:00,4
+2026-01-23,Friday,Orthopedics,Dr. Kulkarni,08:00,16:00,4
+2026-01-23,Friday,Orthopedics,Dr. Singh,09:00,16:00,5
+2026-01-23,Friday,Cardiology,Dr. Arora,08:00,16:00,3
+2026-01-23,Friday,Cardiology,Dr. Menon,09:00,15:00,3
+2026-01-23,Friday,Cardiology,Dr. Khan,09:00,15:00,4
+2026-01-23,Friday,Dermatology,Dr. Gupta,09:00,17:00,6
+2026-01-23,Friday,Dermatology,Dr. Bedi,08:00,15:00,6
+2026-01-23,Friday,Dermatology,Dr. Saha,09:00,15:00,6
+2026-01-23,Friday,ENT,Dr. Varma,08:00,14:00,5
+2026-01-23,Friday,ENT,Dr. Naidu,08:00,14:00,5
+2026-01-23,Friday,Gynecology,Dr. Lakshmi,09:00,15:00,3
+2026-01-23,Friday,Gynecology,Dr. Seema,08:00,16:00,4
+2026-01-24,Saturday,General Medicine,Dr. Mehta,08:00,15:00,6
+2026-01-24,Saturday,General Medicine,Dr. Rao,09:00,17:00,7
+2026-01-24,Saturday,General Medicine,Dr. Sharma,09:00,16:00,6
+2026-01-24,Saturday,Pediatrics,Dr. Iyer,08:00,15:00,6
+2026-01-24,Saturday,Pediatrics,Dr. Kapoor,08:00,14:00,5
+2026-01-24,Saturday,Orthopedics,Dr. Reddy,09:00,17:00,3
+2026-01-24,Saturday,Cardiology,Dr. Arora,09:00,17:00,3
+2026-01-24,Saturday,Cardiology,Dr. Menon,09:00,16:00,4
+2026-01-24,Saturday,Dermatology,Dr. Gupta,08:00,16:00,5
+2026-01-24,Saturday,ENT,Dr. Varma,08:00,14:00,4
+2026-01-24,Saturday,Gynecology,Dr. Lakshmi,09:00,15:00,3
+2026-01-25,Sunday,General Medicine,Dr. Mehta,09:00,15:00,7
+2026-01-25,Sunday,General Medicine,Dr. Rao,09:00,17:00,6
+2026-01-25,Sunday,Pediatrics,Dr. Iyer,09:00,16:00,6
+2026-01-25,Sunday,Orthopedics,Dr. Reddy,09:00,17:00,3
+2026-01-25,Sunday,Orthopedics,Dr. Kulkarni,09:00,17:00,5
+2026-01-25,Sunday,Cardiology,Dr. Arora,09:00,16:00,3
+2026-01-25,Sunday,Dermatology,Dr. Gupta,09:00,15:00,5
+2026-01-25,Sunday,ENT,Dr. Varma,09:00,15:00,6
+2026-01-25,Sunday,Gynecology,Dr. Lakshmi,09:00,17:00,4
+2026-01-25,Sunday,Gynecology,Dr. Seema,08:00,14:00,5
+2026-01-26,Monday,General Medicine,Dr. Mehta,09:00,15:00,5
+2026-01-26,Monday,General Medicine,Dr. Rao,08:00,14:00,5
+2026-01-26,Monday,General Medicine,Dr. Sharma,09:00,15:00,7
+2026-01-26,Monday,General Medicine,Dr. Patel,08:00,14:00,6
+2026-01-26,Monday,General Medicine,Dr. Nair,09:00,15:00,5
+2026-01-26,Monday,Pediatrics,Dr. Iyer,09:00,15:00,5
+2026-01-26,Monday,Pediatrics,Dr. Kapoor,08:00,16:00,4
+2026-01-26,Monday,Orthopedics,Dr. Reddy,09:00,16:00,3
+2026-01-26,Monday,Orthopedics,Dr. Kulkarni,09:00,15:00,4
+2026-01-26,Monday,Orthopedics,Dr. Singh,08:00,14:00,4
+2026-01-26,Monday,Cardiology,Dr. Arora,08:00,14:00,3
+2026-01-26,Monday,Cardiology,Dr. Menon,08:00,16:00,3
+2026-01-26,Monday,Dermatology,Dr. Gupta,08:00,15:00,5
+2026-01-26,Monday,Dermatology,Dr. Bedi,08:00,14:00,5
+2026-01-26,Monday,ENT,Dr. Varma,08:00,15:00,6
+2026-01-26,Monday,ENT,Dr. Naidu,08:00,16:00,5
+2026-01-26,Monday,Gynecology,Dr. Lakshmi,08:00,14:00,4
+2026-01-26,Monday,Gynecology,Dr. Seema,08:00,16:00,4
+2026-01-27,Tuesday,General Medicine,Dr. Mehta,09:00,16:00,5
+2026-01-27,Tuesday,General Medicine,Dr. Rao,09:00,15:00,5
+2026-01-27,Tuesday,General Medicine,Dr. Sharma,09:00,16:00,5
+2026-01-27,Tuesday,General Medicine,Dr. Patel,08:00,15:00,7
+2026-01-27,Tuesday,General Medicine,Dr. Nair,09:00,15:00,5
+2026-01-27,Tuesday,Pediatrics,Dr. Iyer,08:00,14:00,4
+2026-01-27,Tuesday,Pediatrics,Dr. Kapoor,08:00,16:00,4
+2026-01-27,Tuesday,Pediatrics,Dr. Fernandes,08:00,16:00,4
+2026-01-27,Tuesday,Orthopedics,Dr. Reddy,08:00,14:00,3
+2026-01-27,Tuesday,Orthopedics,Dr. Kulkarni,09:00,16:00,4
+2026-01-27,Tuesday,Orthopedics,Dr. Singh,08:00,14:00,4
+2026-01-27,Tuesday,Cardiology,Dr. Arora,09:00,17:00,4
+2026-01-27,Tuesday,Cardiology,Dr. Menon,08:00,14:00,3
+2026-01-27,Tuesday,Dermatology,Dr. Gupta,09:00,16:00,6
+2026-01-27,Tuesday,Dermatology,Dr. Bedi,08:00,16:00,7
+2026-01-27,Tuesday,Dermatology,Dr. Saha,09:00,17:00,5
+2026-01-27,Tuesday,ENT,Dr. Varma,08:00,16:00,5
+2026-01-27,Tuesday,ENT,Dr. Naidu,08:00,16:00,5
+2026-01-27,Tuesday,Gynecology,Dr. Lakshmi,09:00,15:00,4
+2026-01-27,Tuesday,Gynecology,Dr. Seema,09:00,17:00,3
+2026-01-27,Tuesday,Gynecology,Dr. Anita,08:00,15:00,5
+2026-01-28,Wednesday,General Medicine,Dr. Mehta,09:00,15:00,5
+2026-01-28,Wednesday,General Medicine,Dr. Rao,09:00,16:00,6
+2026-01-28,Wednesday,General Medicine,Dr. Sharma,08:00,16:00,5
+2026-01-28,Wednesday,General Medicine,Dr. Patel,09:00,15:00,7
+2026-01-28,Wednesday,Pediatrics,Dr. Iyer,08:00,14:00,6
+2026-01-28,Wednesday,Pediatrics,Dr. Kapoor,08:00,15:00,6
+2026-01-28,Wednesday,Orthopedics,Dr. Reddy,09:00,15:00,5
+2026-01-28,Wednesday,Orthopedics,Dr. Kulkarni,09:00,15:00,3
+2026-01-28,Wednesday,Orthopedics,Dr. Singh,09:00,15:00,4
+2026-01-28,Wednesday,Cardiology,Dr. Arora,08:00,16:00,3
+2026-01-28,Wednesday,Cardiology,Dr. Menon,09:00,17:00,3
+2026-01-28,Wednesday,Dermatology,Dr. Gupta,09:00,16:00,5
+2026-01-28,Wednesday,Dermatology,Dr. Bedi,09:00,15:00,5
+2026-01-28,Wednesday,ENT,Dr. Varma,08:00,15:00,6
+2026-01-28,Wednesday,ENT,Dr. Naidu,09:00,16:00,5
+2026-01-28,Wednesday,ENT,Dr. Banerjee,08:00,15:00,6
+2026-01-28,Wednesday,Gynecology,Dr. Lakshmi,09:00,16:00,4
+2026-01-28,Wednesday,Gynecology,Dr. Seema,08:00,15:00,3
+2026-01-29,Thursday,General Medicine,Dr. Mehta,09:00,15:00,6
+2026-01-29,Thursday,General Medicine,Dr. Rao,09:00,15:00,5
+2026-01-29,Thursday,General Medicine,Dr. Sharma,08:00,15:00,7
+2026-01-29,Thursday,General Medicine,Dr. Patel,09:00,15:00,5
+2026-01-29,Thursday,Pediatrics,Dr. Iyer,09:00,15:00,4
+2026-01-29,Thursday,Pediatrics,Dr. Kapoor,09:00,17:00,6
+2026-01-29,Thursday,Orthopedics,Dr. Reddy,09:00,16:00,3
+2026-01-29,Thursday,Orthopedics,Dr. Kulkarni,09:00,16:00,4
+2026-01-29,Thursday,Cardiology,Dr. Arora,09:00,16:00,4
+2026-01-29,Thursday,Cardiology,Dr. Menon,09:00,16:00,3
+2026-01-29,Thursday,Cardiology,Dr. Khan,09:00,17:00,4
+2026-01-29,Thursday,Dermatology,Dr. Gupta,08:00,16:00,6
+2026-01-29,Thursday,Dermatology,Dr. Bedi,09:00,15:00,5
+2026-01-29,Thursday,ENT,Dr. Varma,08:00,15:00,5
+2026-01-29,Thursday,ENT,Dr. Naidu,08:00,16:00,4
+2026-01-29,Thursday,ENT,Dr. Banerjee,09:00,17:00,5
+2026-01-29,Thursday,Gynecology,Dr. Lakshmi,08:00,16:00,4
+2026-01-29,Thursday,Gynecology,Dr. Seema,08:00,15:00,5
+2026-01-30,Friday,General Medicine,Dr. Mehta,08:00,16:00,5
+2026-01-30,Friday,General Medicine,Dr. Rao,09:00,17:00,7
+2026-01-30,Friday,General Medicine,Dr. Sharma,09:00,15:00,5
+2026-01-30,Friday,General Medicine,Dr. Patel,08:00,15:00,7
+2026-01-30,Friday,Pediatrics,Dr. Iyer,09:00,17:00,5
+2026-01-30,Friday,Pediatrics,Dr. Kapoor,08:00,15:00,5
+2026-01-30,Friday,Pediatrics,Dr. Fernandes,08:00,16:00,5
+2026-01-30,Friday,Orthopedics,Dr. Reddy,09:00,17:00,5
+2026-01-30,Friday,Orthopedics,Dr. Kulkarni,09:00,16:00,3
+2026-01-30,Friday,Orthopedics,Dr. Singh,09:00,17:00,5
+2026-01-30,Friday,Cardiology,Dr. Arora,09:00,17:00,4
+2026-01-30,Friday,Cardiology,Dr. Menon,08:00,14:00,3
+2026-01-30,Friday,Cardiology,Dr. Khan,08:00,16:00,3
+2026-01-30,Friday,Dermatology,Dr. Gupta,08:00,16:00,7
+2026-01-30,Friday,Dermatology,Dr. Bedi,08:00,16:00,7
+2026-01-30,Friday,ENT,Dr. Varma,09:00,16:00,5
+2026-01-30,Friday,ENT,Dr. Naidu,09:00,15:00,5
+2026-01-30,Friday,ENT,Dr. Banerjee,09:00,16:00,5
+2026-01-30,Friday,Gynecology,Dr. Lakshmi,08:00,14:00,4
+2026-01-30,Friday,Gynecology,Dr. Seema,09:00,17:00,4
+2026-01-31,Saturday,General Medicine,Dr. Mehta,08:00,14:00,6
+2026-01-31,Saturday,General Medicine,Dr. Rao,08:00,15:00,6
+2026-01-31,Saturday,Pediatrics,Dr. Iyer,08:00,14:00,4
+2026-01-31,Saturday,Pediatrics,Dr. Kapoor,08:00,16:00,4
+2026-01-31,Saturday,Orthopedics,Dr. Reddy,08:00,16:00,5
+2026-01-31,Saturday,Cardiology,Dr. Arora,08:00,14:00,3
+2026-01-31,Saturday,Dermatology,Dr. Gupta,09:00,17:00,6
+2026-01-31,Saturday,Dermatology,Dr. Bedi,08:00,15:00,5
+2026-01-31,Saturday,ENT,Dr. Varma,08:00,15:00,5
+2026-01-31,Saturday,ENT,Dr. Naidu,08:00,15:00,5
+2026-01-31,Saturday,Gynecology,Dr. Lakshmi,08:00,14:00,3
+2026-02-01,Sunday,General Medicine,Dr. Mehta,08:00,16:00,5
+2026-02-01,Sunday,General Medicine,Dr. Rao,09:00,17:00,6
+2026-02-01,Sunday,Pediatrics,Dr. Iyer,08:00,14:00,4
+2026-02-01,Sunday,Pediatrics,Dr. Kapoor,08:00,14:00,4
+2026-02-01,Sunday,Orthopedics,Dr. Reddy,08:00,16:00,5
+2026-02-01,Sunday,Orthopedics,Dr. Kulkarni,09:00,15:00,5
+2026-02-01,Sunday,Cardiology,Dr. Arora,09:00,16:00,4
+2026-02-01,Sunday,Cardiology,Dr. Menon,09:00,15:00,3
+2026-02-01,Sunday,Dermatology,Dr. Gupta,09:00,15:00,5
+2026-02-01,Sunday,ENT,Dr. Varma,08:00,14:00,6
+2026-02-01,Sunday,ENT,Dr. Naidu,09:00,17:00,5
+2026-02-01,Sunday,Gynecology,Dr. Lakshmi,09:00,16:00,3
+2026-02-02,Monday,General Medicine,Dr. Mehta,08:00,15:00,5
+2026-02-02,Monday,General Medicine,Dr. Rao,08:00,16:00,6
+2026-02-02,Monday,General Medicine,Dr. Sharma,09:00,16:00,7
+2026-02-02,Monday,General Medicine,Dr. Patel,09:00,15:00,7
+2026-02-02,Monday,Pediatrics,Dr. Iyer,09:00,16:00,4
+2026-02-02,Monday,Pediatrics,Dr. Kapoor,09:00,15:00,6
+2026-02-02,Monday,Orthopedics,Dr. Reddy,08:00,15:00,5
+2026-02-02,Monday,Orthopedics,Dr. Kulkarni,08:00,14:00,3
+2026-02-02,Monday,Cardiology,Dr. Arora,09:00,15:00,3
+2026-02-02,Monday,Cardiology,Dr. Menon,08:00,14:00,4
+2026-02-02,Monday,Cardiology,Dr. Khan,09:00,15:00,4
+2026-02-02,Monday,Dermatology,Dr. Gupta,08:00,15:00,5
+2026-02-02,Monday,Dermatology,Dr. Bedi,08:00,16:00,7
+2026-02-02,Monday,ENT,Dr. Varma,09:00,16:00,6
+2026-02-02,Monday,ENT,Dr. Naidu,09:00,16:00,5
+2026-02-02,Monday,Gynecology,Dr. Lakshmi,09:00,15:00,3
+2026-02-02,Monday,Gynecology,Dr. Seema,08:00,14:00,3
+2026-02-02,Monday,Gynecology,Dr. Anita,08:00,16:00,3
+2026-02-03,Tuesday,General Medicine,Dr. Mehta,08:00,16:00,5
+2026-02-03,Tuesday,General Medicine,Dr. Rao,09:00,15:00,6
+2026-02-03,Tuesday,General Medicine,Dr. Sharma,08:00,15:00,6
+2026-02-03,Tuesday,General Medicine,Dr. Patel,09:00,17:00,6
+2026-02-03,Tuesday,General Medicine,Dr. Nair,08:00,14:00,6
+2026-02-03,Tuesday,Pediatrics,Dr. Iyer,08:00,16:00,4
+2026-02-03,Tuesday,Pediatrics,Dr. Kapoor,08:00,16:00,6
+2026-02-03,Tuesday,Orthopedics,Dr. Reddy,08:00,15:00,4
+2026-02-03,Tuesday,Orthopedics,Dr. Kulkarni,09:00,15:00,3
+2026-02-03,Tuesday,Cardiology,Dr. Arora,09:00,15:00,3
+2026-02-03,Tuesday,Cardiology,Dr. Menon,08:00,14:00,4
+2026-02-03,Tuesday,Dermatology,Dr. Gupta,08:00,16:00,6
+2026-02-03,Tuesday,Dermatology,Dr. Bedi,08:00,15:00,7
+2026-02-03,Tuesday,ENT,Dr. Varma,09:00,16:00,5
+2026-02-03,Tuesday,ENT,Dr. Naidu,08:00,16:00,6
+2026-02-03,Tuesday,Gynecology,Dr. Lakshmi,09:00,17:00,5
+2026-02-03,Tuesday,Gynecology,Dr. Seema,08:00,15:00,5
+2026-02-04,Wednesday,General Medicine,Dr. Mehta,09:00,17:00,7
+2026-02-04,Wednesday,General Medicine,Dr. Rao,08:00,15:00,5
+2026-02-04,Wednesday,General Medicine,Dr. Sharma,09:00,16:00,5
+2026-02-04,Wednesday,General Medicine,Dr. Patel,09:00,16:00,6
+2026-02-04,Wednesday,Pediatrics,Dr. Iyer,09:00,16:00,6
+2026-02-04,Wednesday,Pediatrics,Dr. Kapoor,09:00,15:00,4
+2026-02-04,Wednesday,Orthopedics,Dr. Reddy,09:00,16:00,3
+2026-02-04,Wednesday,Orthopedics,Dr. Kulkarni,09:00,17:00,3
+2026-02-04,Wednesday,Orthopedics,Dr. Singh,09:00,17:00,3
+2026-02-04,Wednesday,Cardiology,Dr. Arora,09:00,15:00,3
+2026-02-04,Wednesday,Cardiology,Dr. Menon,08:00,16:00,3
+2026-02-04,Wednesday,Dermatology,Dr. Gupta,08:00,16:00,6
+2026-02-04,Wednesday,Dermatology,Dr. Bedi,08:00,15:00,5
+2026-02-04,Wednesday,ENT,Dr. Varma,09:00,15:00,5
+2026-02-04,Wednesday,ENT,Dr. Naidu,09:00,17:00,5
+2026-02-04,Wednesday,ENT,Dr. Banerjee,08:00,15:00,5
+2026-02-04,Wednesday,Gynecology,Dr. Lakshmi,08:00,15:00,4
+2026-02-04,Wednesday,Gynecology,Dr. Seema,09:00,16:00,4
+2026-02-04,Wednesday,Gynecology,Dr. Anita,09:00,15:00,3
+2026-02-05,Thursday,General Medicine,Dr. Mehta,09:00,17:00,6
+2026-02-05,Thursday,General Medicine,Dr. Rao,08:00,16:00,6
+2026-02-05,Thursday,General Medicine,Dr. Sharma,08:00,16:00,7
+2026-02-05,Thursday,General Medicine,Dr. Patel,09:00,15:00,7
+2026-02-05,Thursday,General Medicine,Dr. Nair,08:00,15:00,7
+2026-02-05,Thursday,Pediatrics,Dr. Iyer,08:00,14:00,5
+2026-02-05,Thursday,Pediatrics,Dr. Kapoor,09:00,17:00,5
+2026-02-05,Thursday,Pediatrics,Dr. Fernandes,09:00,17:00,5
+2026-02-05,Thursday,Orthopedics,Dr. Reddy,09:00,16:00,3
+2026-02-05,Thursday,Orthopedics,Dr. Kulkarni,09:00,16:00,4
+2026-02-05,Thursday,Cardiology,Dr. Arora,09:00,15:00,3
+2026-02-05,Thursday,Cardiology,Dr. Menon,08:00,15:00,3
+2026-02-05,Thursday,Cardiology,Dr. Khan,08:00,16:00,3
+2026-02-05,Thursday,Dermatology,Dr. Gupta,08:00,14:00,5
+2026-02-05,Thursday,Dermatology,Dr. Bedi,09:00,15:00,5
+2026-02-05,Thursday,ENT,Dr. Varma,08:00,15:00,6
+2026-02-05,Thursday,ENT,Dr. Naidu,09:00,15:00,4
+2026-02-05,Thursday,ENT,Dr. Banerjee,09:00,15:00,6
+2026-02-05,Thursday,Gynecology,Dr. Lakshmi,08:00,16:00,5
+2026-02-05,Thursday,Gynecology,Dr. Seema,09:00,17:00,3
+2026-02-06,Friday,General Medicine,Dr. Mehta,09:00,15:00,5
+2026-02-06,Friday,General Medicine,Dr. Rao,09:00,15:00,7
+2026-02-06,Friday,General Medicine,Dr. Sharma,08:00,14:00,5
+2026-02-06,Friday,General Medicine,Dr. Patel,08:00,16:00,7
+2026-02-06,Friday,General Medicine,Dr. Nair,09:00,17:00,5
+2026-02-06,Friday,Pediatrics,Dr. Iyer,09:00,16:00,6
+2026-02-06,Friday,Pediatrics,Dr. Kapoor,09:00,17:00,5
+2026-02-06,Friday,Pediatrics,Dr. Fernandes,09:00,17:00,4
+2026-02-06,Friday,Orthopedics,Dr. Reddy,09:00,15:00,3
+2026-02-06,Friday,Orthopedics,Dr. Kulkarni,09:00,17:00,4
+2026-02-06,Friday,Cardiology,Dr. Arora,08:00,16:00,4
+2026-02-06,Friday,Cardiology,Dr. Menon,08:00,15:00,3
+2026-02-06,Friday,Dermatology,Dr. Gupta,09:00,17:00,6
+2026-02-06,Friday,Dermatology,Dr. Bedi,08:00,15:00,5
+2026-02-06,Friday,Dermatology,Dr. Saha,09:00,17:00,7
+2026-02-06,Friday,ENT,Dr. Varma,08:00,16:00,5
+2026-02-06,Friday,ENT,Dr. Naidu,09:00,16:00,5
+2026-02-06,Friday,Gynecology,Dr. Lakshmi,09:00,16:00,5
+2026-02-06,Friday,Gynecology,Dr. Seema,08:00,15:00,5
+2026-02-06,Friday,Gynecology,Dr. Anita,09:00,17:00,3
+2026-02-07,Saturday,General Medicine,Dr. Mehta,09:00,17:00,5
+2026-02-07,Saturday,General Medicine,Dr. Rao,09:00,17:00,7
+2026-02-07,Saturday,General Medicine,Dr. Sharma,08:00,16:00,5
+2026-02-07,Saturday,Pediatrics,Dr. Iyer,09:00,16:00,6
+2026-02-07,Saturday,Orthopedics,Dr. Reddy,09:00,16:00,4
+2026-02-07,Saturday,Cardiology,Dr. Arora,08:00,14:00,3
+2026-02-07,Saturday,Dermatology,Dr. Gupta,08:00,15:00,5
+2026-02-07,Saturday,Dermatology,Dr. Bedi,08:00,15:00,7
+2026-02-07,Saturday,ENT,Dr. Varma,09:00,16:00,4
+2026-02-07,Saturday,Gynecology,Dr. Lakshmi,08:00,14:00,4
+2026-02-08,Sunday,General Medicine,Dr. Mehta,09:00,15:00,7
+2026-02-08,Sunday,General Medicine,Dr. Rao,08:00,14:00,7
+2026-02-08,Sunday,Pediatrics,Dr. Iyer,09:00,15:00,4
+2026-02-08,Sunday,Pediatrics,Dr. Kapoor,08:00,15:00,6
+2026-02-08,Sunday,Orthopedics,Dr. Reddy,08:00,16:00,3
+2026-02-08,Sunday,Cardiology,Dr. Arora,08:00,15:00,4
+2026-02-08,Sunday,Dermatology,Dr. Gupta,09:00,15:00,7
+2026-02-08,Sunday,Dermatology,Dr. Bedi,09:00,15:00,7
+2026-02-08,Sunday,ENT,Dr. Varma,09:00,17:00,4
+2026-02-08,Sunday,Gynecology,Dr. Lakshmi,08:00,16:00,3
+2026-02-09,Monday,General Medicine,Dr. Mehta,08:00,14:00,7
+2026-02-09,Monday,General Medicine,Dr. Rao,09:00,16:00,5
+2026-02-09,Monday,General Medicine,Dr. Sharma,08:00,15:00,6
+2026-02-09,Monday,General Medicine,Dr. Patel,09:00,15:00,6
+2026-02-09,Monday,General Medicine,Dr. Nair,08:00,16:00,7
+2026-02-09,Monday,Pediatrics,Dr. Iyer,08:00,16:00,4
+2026-02-09,Monday,Pediatrics,Dr. Kapoor,09:00,15:00,5
+2026-02-09,Monday,Pediatrics,Dr. Fernandes,08:00,14:00,6
+2026-02-09,Monday,Orthopedics,Dr. Reddy,08:00,16:00,3
+2026-02-09,Monday,Orthopedics,Dr. Kulkarni,08:00,14:00,4
+2026-02-09,Monday,Orthopedics,Dr. Singh,08:00,15:00,3
+2026-02-09,Monday,Cardiology,Dr. Arora,08:00,16:00,4
+2026-02-09,Monday,Cardiology,Dr. Menon,08:00,14:00,4
+2026-02-09,Monday,Dermatology,Dr. Gupta,09:00,17:00,7
+2026-02-09,Monday,Dermatology,Dr. Bedi,09:00,16:00,6
+2026-02-09,Monday,Dermatology,Dr. Saha,08:00,14:00,7
+2026-02-09,Monday,ENT,Dr. Varma,09:00,15:00,5
+2026-02-09,Monday,ENT,Dr. Naidu,08:00,16:00,4
+2026-02-09,Monday,ENT,Dr. Banerjee,08:00,15:00,6
+2026-02-09,Monday,Gynecology,Dr. Lakshmi,08:00,14:00,3
+2026-02-09,Monday,Gynecology,Dr. Seema,08:00,15:00,3
+2026-02-09,Monday,Gynecology,Dr. Anita,08:00,15:00,3
+2026-02-10,Tuesday,General Medicine,Dr. Mehta,08:00,14:00,6
+2026-02-10,Tuesday,General Medicine,Dr. Rao,09:00,17:00,5
+2026-02-10,Tuesday,General Medicine,Dr. Sharma,08:00,15:00,6
+2026-02-10,Tuesday,General Medicine,Dr. Patel,09:00,17:00,6
+2026-02-10,Tuesday,Pediatrics,Dr. Iyer,08:00,14:00,4
+2026-02-10,Tuesday,Pediatrics,Dr. Kapoor,09:00,15:00,6
+2026-02-10,Tuesday,Orthopedics,Dr. Reddy,09:00,16:00,5
+2026-02-10,Tuesday,Orthopedics,Dr. Kulkarni,08:00,14:00,4
+2026-02-10,Tuesday,Orthopedics,Dr. Singh,08:00,15:00,5
+2026-02-10,Tuesday,Cardiology,Dr. Arora,08:00,14:00,4
+2026-02-10,Tuesday,Cardiology,Dr. Menon,08:00,15:00,4
+2026-02-10,Tuesday,Cardiology,Dr. Khan,09:00,17:00,3
+2026-02-10,Tuesday,Dermatology,Dr. Gupta,08:00,15:00,5
+2026-02-10,Tuesday,Dermatology,Dr. Bedi,09:00,15:00,6
+2026-02-10,Tuesday,ENT,Dr. Varma,09:00,15:00,6
+2026-02-10,Tuesday,ENT,Dr. Naidu,08:00,15:00,4
+2026-02-10,Tuesday,ENT,Dr. Banerjee,08:00,14:00,4
+2026-02-10,Tuesday,Gynecology,Dr. Lakshmi,08:00,15:00,5
+2026-02-10,Tuesday,Gynecology,Dr. Seema,09:00,17:00,3
+2026-02-10,Tuesday,Gynecology,Dr. Anita,09:00,16:00,3
+2026-02-11,Wednesday,General Medicine,Dr. Mehta,09:00,16:00,5
+2026-02-11,Wednesday,General Medicine,Dr. Rao,09:00,17:00,7
+2026-02-11,Wednesday,General Medicine,Dr. Sharma,09:00,17:00,6
+2026-02-11,Wednesday,General Medicine,Dr. Patel,08:00,15:00,5
+2026-02-11,Wednesday,Pediatrics,Dr. Iyer,09:00,17:00,4
+2026-02-11,Wednesday,Pediatrics,Dr. Kapoor,08:00,16:00,4
+2026-02-11,Wednesday,Orthopedics,Dr. Reddy,09:00,16:00,4
+2026-02-11,Wednesday,Orthopedics,Dr. Kulkarni,09:00,16:00,5
+2026-02-11,Wednesday,Orthopedics,Dr. Singh,08:00,14:00,4
+2026-02-11,Wednesday,Cardiology,Dr. Arora,09:00,16:00,3
+2026-02-11,Wednesday,Cardiology,Dr. Menon,08:00,15:00,3
+2026-02-11,Wednesday,Dermatology,Dr. Gupta,08:00,14:00,7
+2026-02-11,Wednesday,Dermatology,Dr. Bedi,08:00,16:00,6
+2026-02-11,Wednesday,ENT,Dr. Varma,08:00,15:00,6
+2026-02-11,Wednesday,ENT,Dr. Naidu,08:00,14:00,5
+2026-02-11,Wednesday,ENT,Dr. Banerjee,08:00,14:00,5
+2026-02-11,Wednesday,Gynecology,Dr. Lakshmi,09:00,17:00,5
+2026-02-11,Wednesday,Gynecology,Dr. Seema,08:00,15:00,3
+2026-02-11,Wednesday,Gynecology,Dr. Anita,08:00,14:00,4
+2026-02-12,Thursday,General Medicine,Dr. Mehta,09:00,16:00,7
+2026-02-12,Thursday,General Medicine,Dr. Rao,08:00,16:00,7
+2026-02-12,Thursday,General Medicine,Dr. Sharma,08:00,15:00,7
+2026-02-12,Thursday,General Medicine,Dr. Patel,08:00,16:00,7
+2026-02-12,Thursday,General Medicine,Dr. Nair,08:00,14:00,6
+2026-02-12,Thursday,Pediatrics,Dr. Iyer,08:00,15:00,5
+2026-02-12,Thursday,Pediatrics,Dr. Kapoor,08:00,14:00,6
+2026-02-12,Thursday,Orthopedics,Dr. Reddy,08:00,16:00,3
+2026-02-12,Thursday,Orthopedics,Dr. Kulkarni,08:00,14:00,3
+2026-02-12,Thursday,Cardiology,Dr. Arora,09:00,15:00,3
+2026-02-12,Thursday,Cardiology,Dr. Menon,08:00,15:00,4
+2026-02-12,Thursday,Dermatology,Dr. Gupta,08:00,15:00,6
+2026-02-12,Thursday,Dermatology,Dr. Bedi,08:00,14:00,6
+2026-02-12,Thursday,ENT,Dr. Varma,08:00,14:00,6
+2026-02-12,Thursday,ENT,Dr. Naidu,09:00,16:00,4
+2026-02-12,Thursday,Gynecology,Dr. Lakshmi,09:00,15:00,5
+2026-02-12,Thursday,Gynecology,Dr. Seema,09:00,15:00,5
+2026-02-12,Thursday,Gynecology,Dr. Anita,08:00,14:00,3
+2026-02-13,Friday,General Medicine,Dr. Mehta,09:00,16:00,5
+2026-02-13,Friday,General Medicine,Dr. Rao,08:00,16:00,7
+2026-02-13,Friday,General Medicine,Dr. Sharma,09:00,15:00,7
+2026-02-13,Friday,General Medicine,Dr. Patel,09:00,16:00,5
+2026-02-13,Friday,Pediatrics,Dr. Iyer,08:00,14:00,4
+2026-02-13,Friday,Pediatrics,Dr. Kapoor,08:00,14:00,4
+2026-02-13,Friday,Pediatrics,Dr. Fernandes,08:00,16:00,4
+2026-02-13,Friday,Orthopedics,Dr. Reddy,09:00,17:00,5
+2026-02-13,Friday,Orthopedics,Dr. Kulkarni,08:00,16:00,5
+2026-02-13,Friday,Orthopedics,Dr. Singh,08:00,15:00,4
+2026-02-13,Friday,Cardiology,Dr. Arora,08:00,16:00,4
+2026-02-13,Friday,Cardiology,Dr. Menon,08:00,16:00,3
+2026-02-13,Friday,Dermatology,Dr. Gupta,09:00,16:00,5
+2026-02-13,Friday,Dermatology,Dr. Bedi,09:00,15:00,5
+2026-02-13,Friday,Dermatology,Dr. Saha,08:00,16:00,5
+2026-02-13,Friday,ENT,Dr. Varma,09:00,15:00,5
+2026-02-13,Friday,ENT,Dr. Naidu,09:00,16:00,6
+2026-02-13,Friday,ENT,Dr. Banerjee,08:00,15:00,5
+2026-02-13,Friday,Gynecology,Dr. Lakshmi,09:00,16:00,5
+2026-02-13,Friday,Gynecology,Dr. Seema,09:00,17:00,5
+2026-02-13,Friday,Gynecology,Dr. Anita,08:00,16:00,3
+2026-02-14,Saturday,General Medicine,Dr. Mehta,08:00,16:00,6
+2026-02-14,Saturday,General Medicine,Dr. Rao,08:00,15:00,5
+2026-02-14,Saturday,Pediatrics,Dr. Iyer,08:00,15:00,5
+2026-02-14,Saturday,Pediatrics,Dr. Kapoor,08:00,16:00,5
+2026-02-14,Saturday,Orthopedics,Dr. Reddy,08:00,15:00,3
+2026-02-14,Saturday,Cardiology,Dr. Arora,08:00,15:00,4
+2026-02-14,Saturday,Dermatology,Dr. Gupta,08:00,16:00,5
+2026-02-14,Saturday,Dermatology,Dr. Bedi,09:00,16:00,7
+2026-02-14,Saturday,ENT,Dr. Varma,09:00,15:00,5
+2026-02-14,Saturday,ENT,Dr. Naidu,09:00,17:00,6
+2026-02-14,Saturday,Gynecology,Dr. Lakshmi,09:00,15:00,5
+2026-02-15,Sunday,General Medicine,Dr. Mehta,08:00,15:00,7
+2026-02-15,Sunday,General Medicine,Dr. Rao,09:00,16:00,5
+2026-02-15,Sunday,General Medicine,Dr. Sharma,09:00,17:00,6
+2026-02-15,Sunday,Pediatrics,Dr. Iyer,08:00,15:00,4
+2026-02-15,Sunday,Pediatrics,Dr. Kapoor,09:00,17:00,6
+2026-02-15,Sunday,Orthopedics,Dr. Reddy,08:00,14:00,4
+2026-02-15,Sunday,Orthopedics,Dr. Kulkarni,09:00,15:00,5
+2026-02-15,Sunday,Cardiology,Dr. Arora,08:00,14:00,3
+2026-02-15,Sunday,Dermatology,Dr. Gupta,08:00,15:00,7
+2026-02-15,Sunday,ENT,Dr. Varma,08:00,16:00,6
+2026-02-15,Sunday,ENT,Dr. Naidu,09:00,16:00,6
+2026-02-15,Sunday,Gynecology,Dr. Lakshmi,08:00,14:00,5
+2026-02-15,Sunday,Gynecology,Dr. Seema,08:00,15:00,5
+2026-02-16,Monday,General Medicine,Dr. Mehta,08:00,14:00,6
+2026-02-16,Monday,General Medicine,Dr. Rao,08:00,16:00,5
+2026-02-16,Monday,General Medicine,Dr. Sharma,09:00,17:00,7
+2026-02-16,Monday,General Medicine,Dr. Patel,09:00,15:00,7
+2026-02-16,Monday,Pediatrics,Dr. Iyer,09:00,17:00,5
+2026-02-16,Monday,Pediatrics,Dr. Kapoor,08:00,14:00,4
+2026-02-16,Monday,Pediatrics,Dr. Fernandes,08:00,16:00,5
+2026-02-16,Monday,Orthopedics,Dr. Reddy,08:00,15:00,4
+2026-02-16,Monday,Orthopedics,Dr. Kulkarni,09:00,17:00,4
+2026-02-16,Monday,Cardiology,Dr. Arora,08:00,16:00,3
+2026-02-16,Monday,Cardiology,Dr. Menon,08:00,15:00,3
+2026-02-16,Monday,Cardiology,Dr. Khan,08:00,16:00,4
+2026-02-16,Monday,Dermatology,Dr. Gupta,09:00,15:00,5
+2026-02-16,Monday,Dermatology,Dr. Bedi,09:00,15:00,7
+2026-02-16,Monday,ENT,Dr. Varma,08:00,14:00,6
+2026-02-16,Monday,ENT,Dr. Naidu,09:00,16:00,5
+2026-02-16,Monday,ENT,Dr. Banerjee,08:00,16:00,5
+2026-02-16,Monday,Gynecology,Dr. Lakshmi,09:00,17:00,3
+2026-02-16,Monday,Gynecology,Dr. Seema,08:00,16:00,4
+2026-02-17,Tuesday,General Medicine,Dr. Mehta,08:00,15:00,6
+2026-02-17,Tuesday,General Medicine,Dr. Rao,09:00,16:00,7
+2026-02-17,Tuesday,General Medicine,Dr. Sharma,08:00,15:00,5
+2026-02-17,Tuesday,General Medicine,Dr. Patel,09:00,15:00,6
+2026-02-17,Tuesday,Pediatrics,Dr. Iyer,08:00,14:00,5
+2026-02-17,Tuesday,Pediatrics,Dr. Kapoor,09:00,15:00,5
+2026-02-17,Tuesday,Orthopedics,Dr. Reddy,09:00,16:00,5
+2026-02-17,Tuesday,Orthopedics,Dr. Kulkarni,08:00,14:00,4
+2026-02-17,Tuesday,Cardiology,Dr. Arora,09:00,17:00,4
+2026-02-17,Tuesday,Cardiology,Dr. Menon,09:00,16:00,3
+2026-02-17,Tuesday,Cardiology,Dr. Khan,08:00,15:00,3
+2026-02-17,Tuesday,Dermatology,Dr. Gupta,08:00,15:00,6
+2026-02-17,Tuesday,Dermatology,Dr. Bedi,09:00,16:00,7
+2026-02-17,Tuesday,ENT,Dr. Varma,08:00,14:00,6
+2026-02-17,Tuesday,ENT,Dr. Naidu,09:00,15:00,5
+2026-02-17,Tuesday,ENT,Dr. Banerjee,09:00,16:00,4
+2026-02-17,Tuesday,Gynecology,Dr. Lakshmi,09:00,17:00,5
+2026-02-17,Tuesday,Gynecology,Dr. Seema,09:00,15:00,3
+2026-02-18,Wednesday,General Medicine,Dr. Mehta,08:00,16:00,7
+2026-02-18,Wednesday,General Medicine,Dr. Rao,08:00,16:00,6
+2026-02-18,Wednesday,General Medicine,Dr. Sharma,08:00,16:00,7
+2026-02-18,Wednesday,General Medicine,Dr. Patel,09:00,17:00,6
+2026-02-18,Wednesday,Pediatrics,Dr. Iyer,08:00,16:00,4
+2026-02-18,Wednesday,Pediatrics,Dr. Kapoor,08:00,16:00,4
+2026-02-18,Wednesday,Pediatrics,Dr. Fernandes,08:00,16:00,4
+2026-02-18,Wednesday,Orthopedics,Dr. Reddy,08:00,14:00,5
+2026-02-18,Wednesday,Orthopedics,Dr. Kulkarni,08:00,14:00,5
+2026-02-18,Wednesday,Orthopedics,Dr. Singh,09:00,15:00,5
+2026-02-18,Wednesday,Cardiology,Dr. Arora,09:00,15:00,4
+2026-02-18,Wednesday,Cardiology,Dr. Menon,09:00,17:00,3
+2026-02-18,Wednesday,Cardiology,Dr. Khan,09:00,16:00,3
+2026-02-18,Wednesday,Dermatology,Dr. Gupta,09:00,15:00,6
+2026-02-18,Wednesday,Dermatology,Dr. Bedi,08:00,15:00,7
+2026-02-18,Wednesday,Dermatology,Dr. Saha,09:00,15:00,7
+2026-02-18,Wednesday,ENT,Dr. Varma,09:00,17:00,5
+2026-02-18,Wednesday,ENT,Dr. Naidu,08:00,15:00,6
+2026-02-18,Wednesday,Gynecology,Dr. Lakshmi,08:00,15:00,3
+2026-02-18,Wednesday,Gynecology,Dr. Seema,08:00,14:00,3
+2026-02-19,Thursday,General Medicine,Dr. Mehta,08:00,15:00,7
+2026-02-19,Thursday,General Medicine,Dr. Rao,09:00,16:00,5
+2026-02-19,Thursday,General Medicine,Dr. Sharma,09:00,17:00,6
+2026-02-19,Thursday,General Medicine,Dr. Patel,08:00,14:00,5
+2026-02-19,Thursday,General Medicine,Dr. Nair,08:00,16:00,5
+2026-02-19,Thursday,Pediatrics,Dr. Iyer,09:00,17:00,4
+2026-02-19,Thursday,Pediatrics,Dr. Kapoor,08:00,15:00,5
+2026-02-19,Thursday,Orthopedics,Dr. Reddy,09:00,17:00,3
+2026-02-19,Thursday,Orthopedics,Dr. Kulkarni,08:00,15:00,3
+2026-02-19,Thursday,Orthopedics,Dr. Singh,08:00,14:00,5
+2026-02-19,Thursday,Cardiology,Dr. Arora,08:00,14:00,3
+2026-02-19,Thursday,Cardiology,Dr. Menon,09:00,16:00,4
+2026-02-19,Thursday,Dermatology,Dr. Gupta,09:00,16:00,6
+2026-02-19,Thursday,Dermatology,Dr. Bedi,09:00,15:00,6
+2026-02-19,Thursday,ENT,Dr. Varma,09:00,16:00,5
+2026-02-19,Thursday,ENT,Dr. Naidu,09:00,16:00,6
+2026-02-19,Thursday,ENT,Dr. Banerjee,08:00,15:00,4
+2026-02-19,Thursday,Gynecology,Dr. Lakshmi,08:00,14:00,4
+2026-02-19,Thursday,Gynecology,Dr. Seema,08:00,15:00,5
+2026-02-20,Friday,General Medicine,Dr. Mehta,08:00,14:00,7
+2026-02-20,Friday,General Medicine,Dr. Rao,08:00,15:00,6
+2026-02-20,Friday,General Medicine,Dr. Sharma,08:00,15:00,5
+2026-02-20,Friday,General Medicine,Dr. Patel,08:00,15:00,5
+2026-02-20,Friday,General Medicine,Dr. Nair,09:00,15:00,6
+2026-02-20,Friday,Pediatrics,Dr. Iyer,08:00,16:00,6
+2026-02-20,Friday,Pediatrics,Dr. Kapoor,09:00,15:00,6
+2026-02-20,Friday,Pediatrics,Dr. Fernandes,09:00,17:00,4
+2026-02-20,Friday,Orthopedics,Dr. Reddy,08:00,15:00,4
+2026-02-20,Friday,Orthopedics,Dr. Kulkarni,09:00,16:00,3
+2026-02-20,Friday,Orthopedics,Dr. Singh,09:00,17:00,4
+2026-02-20,Friday,Cardiology,Dr. Arora,09:00,15:00,3
+2026-02-20,Friday,Cardiology,Dr. Menon,09:00,16:00,4
+2026-02-20,Friday,Dermatology,Dr. Gupta,09:00,15:00,7
+2026-02-20,Friday,Dermatology,Dr. Bedi,09:00,15:00,5
+2026-02-20,Friday,ENT,Dr. Varma,09:00,16:00,4
+2026-02-20,Friday,ENT,Dr. Naidu,09:00,17:00,4
+2026-02-20,Friday,ENT,Dr. Banerjee,08:00,15:00,6
+2026-02-20,Friday,Gynecology,Dr. Lakshmi,08:00,16:00,3
+2026-02-20,Friday,Gynecology,Dr. Seema,09:00,17:00,5
+2026-02-21,Saturday,General Medicine,Dr. Mehta,09:00,17:00,7
+2026-02-21,Saturday,General Medicine,Dr. Rao,08:00,15:00,6
+2026-02-21,Saturday,General Medicine,Dr. Sharma,08:00,16:00,7
+2026-02-21,Saturday,Pediatrics,Dr. Iyer,08:00,15:00,5
+2026-02-21,Saturday,Pediatrics,Dr. Kapoor,09:00,17:00,6
+2026-02-21,Saturday,Orthopedics,Dr. Reddy,09:00,17:00,4
+2026-02-21,Saturday,Orthopedics,Dr. Kulkarni,09:00,16:00,4
+2026-02-21,Saturday,Cardiology,Dr. Arora,08:00,15:00,3
+2026-02-21,Saturday,Cardiology,Dr. Menon,09:00,16:00,3
+2026-02-21,Saturday,Dermatology,Dr. Gupta,08:00,15:00,7
+2026-02-21,Saturday,Dermatology,Dr. Bedi,08:00,14:00,6
+2026-02-21,Saturday,ENT,Dr. Varma,08:00,15:00,4
+2026-02-21,Saturday,Gynecology,Dr. Lakshmi,08:00,16:00,5
+2026-02-21,Saturday,Gynecology,Dr. Seema,08:00,15:00,3
+2026-02-22,Sunday,General Medicine,Dr. Mehta,09:00,17:00,5
+2026-02-22,Sunday,General Medicine,Dr. Rao,08:00,14:00,6
+2026-02-22,Sunday,Pediatrics,Dr. Iyer,08:00,15:00,4
+2026-02-22,Sunday,Orthopedics,Dr. Reddy,09:00,17:00,3
+2026-02-22,Sunday,Orthopedics,Dr. Kulkarni,09:00,17:00,3
+2026-02-22,Sunday,Cardiology,Dr. Arora,08:00,16:00,3
+2026-02-22,Sunday,Cardiology,Dr. Menon,09:00,15:00,3
+2026-02-22,Sunday,Dermatology,Dr. Gupta,08:00,14:00,6
+2026-02-22,Sunday,ENT,Dr. Varma,09:00,16:00,6
+2026-02-22,Sunday,Gynecology,Dr. Lakshmi,08:00,14:00,4
+2026-02-22,Sunday,Gynecology,Dr. Seema,08:00,14:00,5
+2026-02-23,Monday,General Medicine,Dr. Mehta,09:00,15:00,7
+2026-02-23,Monday,General Medicine,Dr. Rao,08:00,15:00,6
+2026-02-23,Monday,General Medicine,Dr. Sharma,09:00,15:00,5
+2026-02-23,Monday,General Medicine,Dr. Patel,08:00,15:00,5
+2026-02-23,Monday,General Medicine,Dr. Nair,08:00,14:00,6
+2026-02-23,Monday,Pediatrics,Dr. Iyer,08:00,16:00,4
+2026-02-23,Monday,Pediatrics,Dr. Kapoor,09:00,17:00,4
+2026-02-23,Monday,Orthopedics,Dr. Reddy,08:00,14:00,4
+2026-02-23,Monday,Orthopedics,Dr. Kulkarni,08:00,14:00,4
+2026-02-23,Monday,Cardiology,Dr. Arora,08:00,16:00,3
+2026-02-23,Monday,Cardiology,Dr. Menon,09:00,15:00,4
+2026-02-23,Monday,Cardiology,Dr. Khan,09:00,15:00,4
+2026-02-23,Monday,Dermatology,Dr. Gupta,08:00,15:00,6
+2026-02-23,Monday,Dermatology,Dr. Bedi,08:00,16:00,6
+2026-02-23,Monday,ENT,Dr. Varma,08:00,15:00,5
+2026-02-23,Monday,ENT,Dr. Naidu,09:00,17:00,6
+2026-02-23,Monday,ENT,Dr. Banerjee,09:00,17:00,5
+2026-02-23,Monday,Gynecology,Dr. Lakshmi,09:00,15:00,5
+2026-02-23,Monday,Gynecology,Dr. Seema,08:00,15:00,4
+2026-02-24,Tuesday,General Medicine,Dr. Mehta,08:00,15:00,6
+2026-02-24,Tuesday,General Medicine,Dr. Rao,08:00,15:00,7
+2026-02-24,Tuesday,General Medicine,Dr. Sharma,09:00,16:00,7
+2026-02-24,Tuesday,General Medicine,Dr. Patel,09:00,15:00,7
+2026-02-24,Tuesday,Pediatrics,Dr. Iyer,08:00,16:00,4
+2026-02-24,Tuesday,Pediatrics,Dr. Kapoor,09:00,17:00,6
+2026-02-24,Tuesday,Orthopedics,Dr. Reddy,09:00,15:00,5
+2026-02-24,Tuesday,Orthopedics,Dr. Kulkarni,08:00,14:00,3
+2026-02-24,Tuesday,Orthopedics,Dr. Singh,08:00,16:00,3
+2026-02-24,Tuesday,Cardiology,Dr. Arora,09:00,16:00,4
+2026-02-24,Tuesday,Cardiology,Dr. Menon,08:00,15:00,4
+2026-02-24,Tuesday,Cardiology,Dr. Khan,09:00,16:00,3
+2026-02-24,Tuesday,Dermatology,Dr. Gupta,08:00,14:00,5
+2026-02-24,Tuesday,Dermatology,Dr. Bedi,09:00,15:00,6
+2026-02-24,Tuesday,ENT,Dr. Varma,09:00,16:00,4
+2026-02-24,Tuesday,ENT,Dr. Naidu,09:00,15:00,6
+2026-02-24,Tuesday,ENT,Dr. Banerjee,09:00,15:00,6
+2026-02-24,Tuesday,Gynecology,Dr. Lakshmi,08:00,16:00,5
+2026-02-24,Tuesday,Gynecology,Dr. Seema,08:00,16:00,5
+2026-02-25,Wednesday,General Medicine,Dr. Mehta,08:00,14:00,7
+2026-02-25,Wednesday,General Medicine,Dr. Rao,09:00,17:00,6
+2026-02-25,Wednesday,General Medicine,Dr. Sharma,08:00,16:00,5
+2026-02-25,Wednesday,General Medicine,Dr. Patel,08:00,16:00,6
+2026-02-25,Wednesday,General Medicine,Dr. Nair,08:00,14:00,6
+2026-02-25,Wednesday,Pediatrics,Dr. Iyer,08:00,16:00,4
+2026-02-25,Wednesday,Pediatrics,Dr. Kapoor,09:00,17:00,5
+2026-02-25,Wednesday,Pediatrics,Dr. Fernandes,09:00,16:00,5
+2026-02-25,Wednesday,Orthopedics,Dr. Reddy,09:00,17:00,3
+2026-02-25,Wednesday,Orthopedics,Dr. Kulkarni,09:00,15:00,4
+2026-02-25,Wednesday,Orthopedics,Dr. Singh,09:00,16:00,5
+2026-02-25,Wednesday,Cardiology,Dr. Arora,08:00,14:00,3
+2026-02-25,Wednesday,Cardiology,Dr. Menon,09:00,16:00,4
+2026-02-25,Wednesday,Cardiology,Dr. Khan,09:00,17:00,3
+2026-02-25,Wednesday,Dermatology,Dr. Gupta,08:00,15:00,7
+2026-02-25,Wednesday,Dermatology,Dr. Bedi,08:00,15:00,5
+2026-02-25,Wednesday,ENT,Dr. Varma,08:00,14:00,5
+2026-02-25,Wednesday,ENT,Dr. Naidu,08:00,15:00,5
+2026-02-25,Wednesday,Gynecology,Dr. Lakshmi,09:00,16:00,4
+2026-02-25,Wednesday,Gynecology,Dr. Seema,09:00,17:00,3
+2026-02-25,Wednesday,Gynecology,Dr. Anita,09:00,15:00,4
+2026-02-26,Thursday,General Medicine,Dr. Mehta,08:00,14:00,7
+2026-02-26,Thursday,General Medicine,Dr. Rao,08:00,14:00,7
+2026-02-26,Thursday,General Medicine,Dr. Sharma,09:00,15:00,7
+2026-02-26,Thursday,General Medicine,Dr. Patel,09:00,15:00,6
+2026-02-26,Thursday,General Medicine,Dr. Nair,08:00,14:00,5
+2026-02-26,Thursday,Pediatrics,Dr. Iyer,08:00,15:00,5
+2026-02-26,Thursday,Pediatrics,Dr. Kapoor,08:00,14:00,4
+2026-02-26,Thursday,Orthopedics,Dr. Reddy,08:00,16:00,4
+2026-02-26,Thursday,Orthopedics,Dr. Kulkarni,09:00,16:00,3
+2026-02-26,Thursday,Orthopedics,Dr. Singh,09:00,15:00,3
+2026-02-26,Thursday,Cardiology,Dr. Arora,08:00,14:00,3
+2026-02-26,Thursday,Cardiology,Dr. Menon,09:00,16:00,3
+2026-02-26,Thursday,Dermatology,Dr. Gupta,08:00,15:00,7
+2026-02-26,Thursday,Dermatology,Dr. Bedi,09:00,16:00,5
+2026-02-26,Thursday,Dermatology,Dr. Saha,08:00,14:00,5
+2026-02-26,Thursday,ENT,Dr. Varma,09:00,16:00,6
+2026-02-26,Thursday,ENT,Dr. Naidu,08:00,14:00,5
+2026-02-26,Thursday,ENT,Dr. Banerjee,09:00,16:00,6
+2026-02-26,Thursday,Gynecology,Dr. Lakshmi,09:00,15:00,3
+2026-02-26,Thursday,Gynecology,Dr. Seema,09:00,15:00,5
+2026-02-27,Friday,General Medicine,Dr. Mehta,09:00,15:00,5
+2026-02-27,Friday,General Medicine,Dr. Rao,09:00,16:00,7
+2026-02-27,Friday,General Medicine,Dr. Sharma,09:00,15:00,5
+2026-02-27,Friday,General Medicine,Dr. Patel,09:00,15:00,7
+2026-02-27,Friday,General Medicine,Dr. Nair,08:00,16:00,7
+2026-02-27,Friday,Pediatrics,Dr. Iyer,08:00,16:00,4
+2026-02-27,Friday,Pediatrics,Dr. Kapoor,09:00,17:00,6
+2026-02-27,Friday,Orthopedics,Dr. Reddy,09:00,15:00,5
+2026-02-27,Friday,Orthopedics,Dr. Kulkarni,09:00,15:00,4
+2026-02-27,Friday,Cardiology,Dr. Arora,09:00,15:00,3
+2026-02-27,Friday,Cardiology,Dr. Menon,09:00,17:00,4
+2026-02-27,Friday,Dermatology,Dr. Gupta,09:00,17:00,6
+2026-02-27,Friday,Dermatology,Dr. Bedi,09:00,17:00,7
+2026-02-27,Friday,Dermatology,Dr. Saha,09:00,17:00,5
+2026-02-27,Friday,ENT,Dr. Varma,09:00,15:00,6
+2026-02-27,Friday,ENT,Dr. Naidu,08:00,15:00,6
+2026-02-27,Friday,ENT,Dr. Banerjee,08:00,15:00,6
+2026-02-27,Friday,Gynecology,Dr. Lakshmi,09:00,15:00,5
+2026-02-27,Friday,Gynecology,Dr. Seema,09:00,17:00,3
+2026-02-28,Saturday,General Medicine,Dr. Mehta,08:00,15:00,6
+2026-02-28,Saturday,General Medicine,Dr. Rao,09:00,16:00,6
+2026-02-28,Saturday,General Medicine,Dr. Sharma,08:00,16:00,5
+2026-02-28,Saturday,Pediatrics,Dr. Iyer,09:00,16:00,5
+2026-02-28,Saturday,Orthopedics,Dr. Reddy,08:00,14:00,4
+2026-02-28,Saturday,Orthopedics,Dr. Kulkarni,09:00,16:00,4
+2026-02-28,Saturday,Cardiology,Dr. Arora,09:00,16:00,4
+2026-02-28,Saturday,Cardiology,Dr. Menon,09:00,15:00,3
+2026-02-28,Saturday,Dermatology,Dr. Gupta,08:00,15:00,5
+2026-02-28,Saturday,Dermatology,Dr. Bedi,09:00,15:00,6
+2026-02-28,Saturday,ENT,Dr. Varma,09:00,17:00,4
+2026-02-28,Saturday,ENT,Dr. Naidu,08:00,14:00,6
+2026-02-28,Saturday,Gynecology,Dr. Lakshmi,08:00,15:00,4
+2026-02-28,Saturday,Gynecology,Dr. Seema,08:00,15:00,3
+2026-03-01,Sunday,General Medicine,Dr. Mehta,08:00,16:00,7
+2026-03-01,Sunday,General Medicine,Dr. Rao,09:00,15:00,7
+2026-03-01,Sunday,Pediatrics,Dr. Iyer,08:00,16:00,6
+2026-03-01,Sunday,Orthopedics,Dr. Reddy,08:00,16:00,4
+2026-03-01,Sunday,Cardiology,Dr. Arora,09:00,17:00,3
+2026-03-01,Sunday,Dermatology,Dr. Gupta,09:00,17:00,5
+2026-03-01,Sunday,Dermatology,Dr. Bedi,08:00,15:00,6
+2026-03-01,Sunday,ENT,Dr. Varma,09:00,17:00,4
+2026-03-01,Sunday,Gynecology,Dr. Lakshmi,08:00,15:00,3
+2026-03-01,Sunday,Gynecology,Dr. Seema,08:00,16:00,4
